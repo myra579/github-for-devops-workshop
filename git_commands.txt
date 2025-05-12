@@ -1,1 +1,21 @@
 
+git init
+dir
+cls
+git status
+git add testingg.py
+git config user.name "Myra"
+git config user.email "myra02sheikh@gmail.com"
+git commit -m "added testing files"
+git status
+del testingg.py
+git status
+type nul > test.py
+rm test.py
+git restore testingg.py
+git remote add origin https://github.com/myra579/github-for-devops-w...
+git remote set-url origin https://ghp_A9yILo66saZWEZkSy4Zp52gmjnFH4Z... 
+git remote -v
+git push origin master
+
+
